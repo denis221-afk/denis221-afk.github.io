@@ -1,0 +1,42 @@
+[
+    {
+        "Location": "Kyiv",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Lviv",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Odesa",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },    
+    {
+        "Location": "Kherson",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Mykulychyn",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Bukovel",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Osmoloda",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    },
+    {
+        "Location": "Ivano-Frankivsk",
+        "name": "Apartament in Kyiv center",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, debitis?"
+    }
+]
