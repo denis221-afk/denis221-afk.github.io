@@ -195,7 +195,7 @@ form.addEventListener('submit', async (e) => {
     const formData = await new FormData(form);
     await sendFrom('Api/Telegram.php', formData);
 
-    window.location.href = './thanks.html';
+
 })
 
 
